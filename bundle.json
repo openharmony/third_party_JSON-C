@@ -20,6 +20,10 @@
     ],
     "envs": {},
     "dirs": {},
+    "readmePath": {
+        "en": "json-c/README.md"
+    },
+    "licensePath": "json-c/COPYING",
     "segment": {
         "destPath": "third_party/JSON-C"
     },
