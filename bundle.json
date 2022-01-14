@@ -1,0 +1,44 @@
+{
+    "name": "@ohos/json_c",
+    "version": "",
+    "description": "JSON-C implements a reference counting object model that allows you to easily construct JSON objects in C, output them as JSON formatted strings and parse JSON formatted strings back into the C representation of JSON objects",
+    "homePage": "https://gitee.com/openharmony",
+    "license": "MIT",
+    "repository": "https://gitee.com/openharmony/third_party_JSON-C",
+    "domain": "os",
+    "language": "",
+    "publishAs": "code-segment",
+    "private": false,
+    "scripts": {},
+    "tags": [
+        "third_party"
+    ],
+    "keywords": [
+        "third-party",
+        "JSON",
+        "C"
+    ],
+    "envs": {},
+    "dirs": {},
+    "readmePath": {
+        "en": "json-c/README.md"
+    },
+    "licensePath": "json-c/COPYING",
+    "segment": {
+        "destPath": "third_party/JSON-C"
+    },
+    "component": {
+        "name": "thirdparty_JSON-C",
+        "subsystem": "",
+        "syscap": [],
+        "features": [],
+        "adapted_system_type": [],
+        "rom": "",
+        "ram": "",
+        "build": {
+            "sub_component": [],
+            "inner_kits": [],
+            "test": []
+        }
+    }
+}
