@@ -1,0 +1,34 @@
+{
+    "name": "@ohos/json_c",
+    "description": "JSON-C implements a reference counting object model that allows you to easily construct JSON objects in C, output them as JSON formatted strings and parse JSON formatted strings back into the C representation of JSON objects",
+    "version": "3.1",
+    "license": "MIT",
+    "publishAs": "code-segment",
+    "segment": {
+        "destPath": "third_party/JSON-C"
+    },
+    "dirs": {},
+    "scripts": {},
+    "licensePath": "json-c/COPYING",
+    "readmePath": {
+        "en": "json-c/README.md"
+    },
+    "component": {
+        "name": "thirdparty_json_c",
+        "subsystem": "",
+        "syscap": [],
+        "features": [],
+        "adapted_system_type": [],
+        "rom": "",
+        "ram": "",
+        "deps": {
+            "components": [],
+            "third_party": []
+        },
+        "build": {
+            "sub_component": [],
+            "inner_kits": [],
+            "test": []
+        }
+    }
+}
